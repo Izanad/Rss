@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Mi Blog de Noticias</title>
+    <title>RSS</title>
     <link>https://hola.html</link> 
-    <description>Ultimas publicaciones de mi blog personal.</description>
+    <description>Hola</description>
     <language>es</language>
-    <lastBuildDate>Tue, 28 May 2025 14:00:00 +0000</lastBuildDate>
 
     <item>
       <title>Noticias el pais</title>
