@@ -11,18 +11,21 @@
       <title>Titulo de la Noticia 1</title>
       <link>https://elpais.com/us/</link>
       <description>Noticias el pais</description>
+      <guid>1</guid>  
     </item>
 
     <item>
       <title>El mundo</title>
       <link>https://www.elmundo.es/</link>
       <description>Noticias el Mundo</description>
+      <guid>2</guid>
     </item>
 
     <item>
       <title>Rsrevolution</title>
       <link>https://rsrevolution.es/</link>
       <description>Mejor pagina de fotografa del mundo del motor</description>
+      <guid>3</guid>
     </item>
   </channel>
 </rss>
